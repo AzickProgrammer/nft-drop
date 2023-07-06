@@ -470,6 +470,7 @@ export default function Home() {
                       )}
                     </Web3Button>
                   </div>
+                  Contract Adress: 0x7E237aF1E235F76265FE5834422bb9709986367b
                 </div>
               )}
             </div>
